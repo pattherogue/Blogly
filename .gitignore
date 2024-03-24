@@ -1,48 +1,8 @@
-# Byte-compiled / optimized / DLL files
+# Python
+*.pyc
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Local environment variables
-.env
-
-# Dependency directories
+# Virtual Environment
 venv/
-env/
-env2/
-env3/
-venv.bak/
-venv/
-ENV/
-env/
-
-# Ignore the pipenv, poetry, and pip lock files
-Pipfile.lock
-poetry.lock
-requirements.txt
-
-# Log files
-*.log
-
-# Mac system files
-.DS_Store
-
-# Editor-specific files
-.vscode/
-*.sublime-project
-*.sublime-workspace
-
-# IDE-specific files
-.idea/
-
-# Compiled Python files
-*.pyc
-
-# Ignore compiled files in a C extension
-*.so
-
-# Ignore Python bytecode folders
-__pycache__/
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
