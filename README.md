@@ -1,3 +1,4 @@
+Getting Started
 To get started with Blogly, follow these steps:
 
 Clone this repository to your local machine.
